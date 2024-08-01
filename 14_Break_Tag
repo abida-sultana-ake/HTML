@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <title>Abida's Website</title>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>HTML</title>
+</head>
+<body>
+    <h1>Books to Read</h1>
+    <p>Books are uniquely portable magic</p>
+       <b>This is bold</b> <br>
+       <i>This is Italic</i> <br>
+       <u>This is underline</u> <br>
+</body>
+</html>
