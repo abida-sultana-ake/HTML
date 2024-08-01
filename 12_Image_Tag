@@ -14,8 +14,11 @@
 
     <!-- Example of relative link-->
     <a href="/about.html">Go To About</a> <br>
-    
-    <!-- Image Tag -->
-     <img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Code Image">
+
+    <!-- Image Tag absolute -->
+     <img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Code Image" width="200" height="200"> <br>
+
+     <!-- Image Tag relative -->
+      <img src="p.jpg" alt="cat" width="200" height="200">
 </body>
 </html>
