@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <title>Abida's Website</title>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>HTML</title>
+</head>
+<body>
+    <h1>Books to Read</h1>
+    <p>Books are uniquely portable magic</p>
+    <!-- Example of absolute link -->
+     <a href="https://www.wikipedia.org/">Click here to go to Wikipedia</a> <br>
+
+    <!-- Example of relative link-->
+    <a href="/about.html">Go To About</a> <br>
+
+    <!-- Image Tag absolute -->
+     <img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Code Image" width="200" height="200"> <br>
+
+     <!-- Image Tag relative -->
+      <img src="p.jpg" alt="cat" width="200" height="200"> <br>
+
+      <!-- Bold, Italic, Underline Tag-->
+       <b>This is bold</b> <br>
+       <i>This is Italic</i> <br>
+       <u>This is underline</u> <br>
+</body>
+</html>
