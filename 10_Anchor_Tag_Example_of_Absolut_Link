@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <title>Abida's Website</title>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>HTML</title>
+</head>
+<body>
+    <h1>Books to Read</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur illo repellendus dignissimos odit alias, temporibus velit voluptatem perspiciatis sint iste quidem adipisci cum praesentium consequuntur totam. Quod voluptates nobis sequi!</p>
+    <!-- Example of absolute link -->
+     <a href="https://www.wikipedia.org/">Click here to go to Wikipedia</a> <br>
+
+    <!-- Example of relative link-->
+    <a href="/about.html">Go To About</a>
+</body>
+</html>
