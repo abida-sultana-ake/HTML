@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <title>Abida's Website</title>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>HTML</title>
+</head>
+<body>
+    <h1>Books to Read</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur illo repellendus dignissimos odit alias, temporibus velit voluptatem perspiciatis sint iste quidem adipisci cum praesentium consequuntur totam. Quod voluptates nobis sequi!</p>
+    <a href="/about.html">Go To About</a>
+</body>
+</html>
+
+<!-- about.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi nisi unde ipsam, temporibus suscipit quidem. This is About</p>
+</body>
+</html>
