@@ -1,0 +1,49 @@
+<!-- Create a SEO friendly website using HTML -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEO</title>
+</head>
+<body>
+    <header>
+        <P><i>Motorsport</i></P>
+        <hr>
+        <p><b>BMW M4 DTM</b></p>
+    </header>
+    <main>
+        <section>
+        <small>Main article </small>
+        <div style="background-color: bisque;">
+            <b>BMW M4 DTM</b>
+        <P>The naturally-aspirated <i>BMW M4 DTM </i>competed in the <i>Deutsche Tourenwagen Masters </i> from <i>2014</i> to <i>2018</i>. <i>Marco Wittmann</i> won the <i>2014</i> and <i>2016</i> championships.</P>
+        </div>
+        <a href="https://en.wikipedia.org/wiki/BMW_M4_DTM"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Farfus_Hockenheim2015-4.jpg" alt="" width="200"></a><br>
+        <small>Click the Picture</small>
+        </section>
+        <section>
+            <div style="background-color: rgb(138, 54, 54);">
+            <p><B>BMW M4 GT4</B></p>
+            <p>The BMW M4 GT4 is a competition version of the road car, sharing the 3.0 L turbocharged straight-six engine and 7-speed dual clutch transmission. Reuse of these elements of the road car, and of shared electronics systems including the TCS, are aimed at cost, maintenance, and driveability, with further race engineering reused from the GT3 version.[55][56] Chassis are homologated under the SRO GT4 category, aimed at amateur drivers, with the engine trimmed to 317 kW (431 PS; 425 hp) in line with the Balance of Performance regulations. The car debuted at the 2017 24 Hours of Nürburgring.</p>
+            </div>
+            <a href="https://www.motorauthority.com/news/1107759_2023-bmw-m4-gt4-race-car-revealed"> <img src="https://images.hgmsites.net/hug/2023-bmw-m4-gt4-race-car_100845097_h.jpg" alt="bmw" width="200"></a> <br>
+            <small>Click the Picture</small>
+        </section>
+        <aside>
+            <div style="background-color: rgb(66, 123, 131);">
+                <h1> What is the history! </h1>
+                <hr>
+                <small>Main Article : History of BMW</small>
+                <p>The Otto Flugmaschinenfabrik was founded in 1910 by Gustav Otto in the Kingdom of Bavaria, which was a state of the German Empire. The firm was reorganized on 7 March 1916 into Bayerische Flugzeugwerke AG. This company was then renamed to Bayerische Motoren Werke (BMW) in 1922. However, the name BMW dates back to 1913, when a company to use the name was founded by Karl Rapp initially as Rapp Motorenwerke. The name and Rapp Motorenwerke's engine-production assets were transferred to Bayerische Flugzeugwerke in 1922, who adopted the name the same year.[7] BMW's first product was produced for fighter aircraft of the Luftstreitkräfte. It was a straight-six aircraft engine called the BMW IIIa, designed in the spring of 1917 by engineer Max Friz. Following the end of World War I, BMW remained in business by producing motorcycle engines, agricultural equipment, household items, and railway brakes. The company produced its first motorcycle, the BMW R 32, in 1923.</p>
+            </div>
+            <a href="https://en.wikipedia.org/wiki/BMW_5_Series_(E12)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bmw_e12_v_sst.jpg/220px-Bmw_e12_v_sst.jpg" alt="BMW"></a><br>
+            <small>1972 BMW 5 Series (1st generation)</small>
+            <hr>
+        </aside>
+    </main>
+    <footer>
+        <b>SO THAT"S ALL</b>
+    </footer>
+</body>
+</html>
