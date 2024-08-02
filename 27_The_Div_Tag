@@ -1,0 +1,31 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter 3</title>
+</head>
+<body>
+    <header>
+        This is header
+        <nav>
+            Home
+            About
+        </nav>
+    </header>
+    <main>
+        <!--<p>This is the main content</p>-->
+        <section>
+            <a href="https://www.wikipedia.org/" target="main"><img src="P.jpg" alt="paint" width="123" height="123"></a>
+        </section>
+        <section>
+            <div style="background-color: aquamarine;">
+            <h1>WHY CAR IS LOVE</h1>
+            <p>A car, or an automobile, is a motor vehicle with wheels. Most definitions of cars state that they run primarily on roads, seat one to eight people, have four wheels, and mainly transport people over cargo</p>
+            </div>
+            <div style="background-color:darkslategray">
+                <h1>What about BMW</h1>
+                <p>The BMW M4 is a high-performance version of the BMW 4 Series automobile developed by BMW's motorsport division, BMW M, that has been built since 2014. As part of the renumbering that splits the coupé and convertible variants of the 3 Series into the 4 Series, the M4 replaced those variants of the BMW M3. Upgrades over the standard BMW 4 Series include an upgraded engine, suspension, exhaust system, brakes and weight reduction measures including increased use of carbon fibre, such as on the roof of the car.</p>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
