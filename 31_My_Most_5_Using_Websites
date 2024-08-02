@@ -1,0 +1,44 @@
+<!-- Create a website which has ypur 5 top used website bookmarked and the link should be open in a new tab -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>5 TOP USED WEBSITE</title>
+</head>
+<body>
+    <header>
+        <h1>My Favourite Sites</h1>
+        <ul>
+            <li>Home</li>
+            <li>About</li>
+        </ul>
+    </header>
+    <main>
+        <section>
+            <img src="https://searchengineland.com/wp-content/seloads/2016/03/google-photos-images3-ss-1920.jpg" alt="" width="200"><br>
+            <a href="https://google.com" target="_blank">Open Google</a><br>
+            <hr>
+            <img src="https://s.yimg.com/ny/api/res/1.2/nL38q6qlWtLYJIsQwFB6gA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://s.yimg.com/os/creatr-uploaded-images/2020-11/1580f730-2909-11eb-93ff-56c1fa76eaad" alt="" width="200"><br>
+            <a href="https://www.instagram.com/" target="_blank">Open Instagram</a><br>
+            <hr>
+            <img src="https://images.ctfassets.net/lzny33ho1g45/2hGTi8N8RkTnlC5d1hCWOf/18e1fd03f84cdcc08e7698655f8a9203/app-tips-twitter-00-hero__1_.jpg" alt="" width="200"><br>
+            <a href="https://x.com/?lang=en" target="_blank">Open Twitter</a> <br>
+            <hr>
+            <img src="https://aatayyab.wordpress.com/wp-content/uploads/2017/07/kk.jpg" alt="" width="200"> <br>
+            <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">Open Gmail</a><br>
+            <hr>
+            <img src="https://yt3.googleusercontent.com/ytc/AIdro_mFQvoItv4McHJj8glTs3SizX43nAArXi2FXTccIG15nA=s900-c-k-c0x00ffffff-no-rj" alt="" width="200"><br>
+            <a href="https://www.programiz.com/c-programming/online-compiler/" target="_blank">Open Online C compalier</a><br>
+            
+        </section>
+        <section></section>
+        <aside>
+            <div></div>
+        </aside>
+    </main>
+    <footer>
+        
+    </footer>
+</body>
+</html>
