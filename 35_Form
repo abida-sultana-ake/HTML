@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <div>
+        <h1> Travel Form for our trip</h1>
+        <form action="from.php">
+            <input type ="text" placeholder="Enter your name"><br>
+            <label for = "sectiona">
+                <input type="radio" value="Section a" name="section" id="sectiona"> Section A
+            </label>
+            <label for="sectionb">
+                <input type="radio" value="section b" name="section" id="sectionb"> Section B
+            </label>
+            <label for="sectionc">
+                <input type="radio" value="sectionc" name="section" id="sectionc"> Section C
+            </label>
+        </form>
+    </div>
+</body>
+</html>
