@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="descreption" content="There is a page for each month where previous Quotes of the Day for each date are listed, and where registered users can make suggestions or rank suggestions for upcoming dates. The Quotes of the Year page and other archives contain more extensive listings of quotes that have already been used. See also the QOTD by month and email options.">
+    <link rel="shortcut icon" href="favicon-12x12.png" type="image/x-icon">
+    <title>SEO in 2024 : A beginner guide</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>Home</li>
+                <li>About</li>
+                <li>Contract</li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <div>
+                <P>
+                    I should not proceed by land to the East, as is customary, but by a Westerly route, in which direction we have hitherto no certain evidence that any one has gone.</P>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
