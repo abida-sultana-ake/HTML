@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+</head>
+<body>
+    <div>
+        <table>
+            <thead>
+            <caption>Max Scores by Different</caption>
+            <tr>
+                <th>S.no</th>
+                <th>Player name</th>
+                <th>Max Score</th>
+                <th>Game</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Wamiyah</td>
+                <td>84</td>
+                <td>UNO</td>
+            </tr>
+        </tbody>
+        </table>
+    </div>
+</body>
+</html>
