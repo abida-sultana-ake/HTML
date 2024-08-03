@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML List</title>
+</head>
+<body>
+    <!-- Unorderd List -->
+     <ul type = "circle">
+        <li>Home</li>
+        <li>About</li>
+        <li>Services</li>
+        <li>Contract</li>
+     </ul>
+     <ol type="i">
+        <li>Home</li>
+        <li>About</li>
+        <li>Services</li>
+        <li>Contract</li>
+     </ol>
+</body>
+</html>
